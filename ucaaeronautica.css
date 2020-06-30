@@ -33,7 +33,13 @@ td {
 }
 
 /* Content Background Colour */
-.google-visualization-table-tr-even {
-    background-color: #1A3CF8;
+.google-visualization-table-table {
+    font-family: arial , helvetica;
+    font-size: 10pt;
+    cursor: default;
+    margin: 0;
+    background: #1A3CF8!important;
+    border-spacing: 0;
+    border-collapse: separate;
 }
 
