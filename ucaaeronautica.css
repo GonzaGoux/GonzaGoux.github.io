@@ -1,7 +1,7 @@
 <link rel="stylesheet"
       type="text/css"
       href="
-/>
+
 /* Header background colour */
 .google-visualization-table-th.gradient {
    background:#4b4a4d!important;
@@ -29,4 +29,5 @@ th {
     background: #1A2BF8;
     border-spacing: 0;
     border-collapse: separate;
-}
+}+
+/>
