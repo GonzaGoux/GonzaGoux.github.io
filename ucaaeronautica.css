@@ -26,3 +26,14 @@ th {
     border-spacing: 0;
     border-collapse: separate;
 }
+
+/* Content Font Colour */
+td {
+   color: white;
+}
+
+/* Content Background Colour */
+.google-visualization-table-tr-even {
+    background-color: blue;
+}
+
