@@ -1,0 +1,28 @@
+/* Header background colour */
+.google-visualization-table-th.gradient {
+   background:#4b4a4d!important;
+}
+
+/* Hedaer font alignment */
+.google-visualization-table-th {
+   text-align: right;
+}
+
+/* Header font colour */
+th {
+   color: white!important;
+}
+/* Header Font Type */
+th {
+   font-family: 'Quicksand, sans-serif;
+}
+
+.google-visualization-table-table {
+    font-family: arial , helvetica;
+    font-size: 10pt;
+    cursor: default;
+    margin: 0;
+    background: #1A2BF8;
+    border-spacing: 0;
+    border-collapse: separate;
+}
