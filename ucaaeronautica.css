@@ -43,10 +43,10 @@ td {
     border-collapse: separate;
 }
 
-/* Transparent Separator */
+/* Transparent Separator // Horizontal Separator*/
 .google-visualization-table-table th, .google-visualization-table-table td {
     border: solid #502b2b00;
-    border-width: 0 0px 0px 0!important;
+    border-width: 0 0px 6px 0!important;
     padding: 6px .35em!important;
     background-color: #0164ff;
 }
