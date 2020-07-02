@@ -52,9 +52,10 @@ td {
 }
 
 /* Separator from left side */
-.google-visualization-table-table td:first-child, .google-visualization-table-table th:first-child {
+.google-visualization-table-table th:first-child {
     border-left-width: 0px!important;
 }
+
 
 
 
