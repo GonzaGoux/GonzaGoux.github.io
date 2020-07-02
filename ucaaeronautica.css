@@ -58,8 +58,8 @@ td {
 
 /* Fonts */
 .google-visualization-table-table {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    font-size: 12pt;
+    font-family: arial , helvetica;
+    font-size: 12pt!important;
     cursor: default;
     margin: 0;
     background: white;
