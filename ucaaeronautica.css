@@ -67,6 +67,7 @@ td {
     border-collapse: separate;
 }
 
-
-
-
+/* Date Row Font Change */
+.tbody>tr>:nth-child(C){ 
+  font-size: 100pt!important;
+}
