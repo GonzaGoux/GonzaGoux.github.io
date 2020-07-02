@@ -56,5 +56,11 @@ td {
     border-left-width: 0px!important;
 }
 
+/* Separator white lines removed */
+.google-visualization-table-table td {
+    border: solid #eee;
+    border-width: 0px 0px 0px 0px;
+    padding: 2px .35em;
+}
 
 
