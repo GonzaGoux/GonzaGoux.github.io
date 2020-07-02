@@ -43,11 +43,11 @@ td {
     border-collapse: separate;
 }
 
-/* Transparent Separator */
+/* Colour and stuff */
 .google-visualization-table-table th, .google-visualization-table-table td {
     border: solid #502b2b00;
     border-width: 0 0px 0px 0!important;
-    padding: 2px .35em;
+    padding: 4px .35em;
     background-color: #070087;
 }
 
