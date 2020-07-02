@@ -51,4 +51,10 @@ td {
     background-color: #070087;
 }
 
+/* Separator from left side */
+.google-visualization-table-table td:first-child, .google-visualization-table-table th:first-child {
+    border-left-width: 1px!important;
+}
+
+
 
