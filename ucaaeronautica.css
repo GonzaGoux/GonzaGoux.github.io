@@ -5,7 +5,7 @@
 
 /* Hedaer font alignment */
 .google-visualization-table-th {
-   text-align: right;
+   text-align: left;
 }
 
 /* Header font colour */
@@ -14,7 +14,7 @@ th {
 }
 /* Header Font Type */
 th {
-   font-family: 'Quicksand, sans-serif;
+   font-family: 'Quicksand, sans-serif';
 }
 
 .google-visualization-table-table {
@@ -65,9 +65,4 @@ td {
     background: white;
     border-spacing: 0;
     border-collapse: separate;
-}
-
-/* Date Row Font Change */
-.tbody>tr>:nth-child(C){ 
-  font-size: 100pt!important;
 }
