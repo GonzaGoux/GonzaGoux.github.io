@@ -56,6 +56,16 @@ td {
     border-left-width: 0px!important;
 }
 
+/* Fonts */
+.google-visualization-table-table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 12pt;
+    cursor: default;
+    margin: 0;
+    background: white;
+    border-spacing: 0;
+    border-collapse: separate;
+}
 
 
 
