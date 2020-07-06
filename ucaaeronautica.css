@@ -71,7 +71,7 @@ td {
 /* Date Transformation */
 .google-visualization-table-table tbody>tr>:nth-child(3) {
     font-weight: bold!important;
-    font-color: #0164ff!important;
+    color: #0164ff!important;
     background-color: white!important;
    
    }
