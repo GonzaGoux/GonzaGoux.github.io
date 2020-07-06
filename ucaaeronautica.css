@@ -97,8 +97,9 @@ td {
 }
 
 /* Horizontal Border */
-.google-visualization-table-table td, .google-visualization-table-table th {
-    border-top-width: 0!important;
-    border-bottom-width: 6px!important;
+.google-visualization-table-table th, .google-visualization-table-table td {
+    border: solid #eee;
+    border-width: 6px 0px 0px 0px!important;
+    padding: 2px .35em;
+    border-color: #4b4a4d!important;
 }
-
