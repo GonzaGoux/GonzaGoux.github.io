@@ -12,10 +12,11 @@
 th {
    color: white!important;
 }
-/* Header Font Type */
+/* Header Font Type
 th {
    font-family: 'Quicksand, sans-serif';
 }
+*/
 
 .google-visualization-table-table {
     font-family: arial , helvetica;
@@ -66,3 +67,5 @@ td {
     border-spacing: 0;
     border-collapse: separate;
 }
+
+
