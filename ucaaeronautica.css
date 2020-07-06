@@ -85,6 +85,8 @@ td {
    /* Logos de Unidad Académica */
 .google-visualization-table-table tbody>tr>:nth-child(5) {
     background-color: #FFC900!important;
+    padding-left: 10px!important;
+    padding-right: 10px!important;
    
    }
 
