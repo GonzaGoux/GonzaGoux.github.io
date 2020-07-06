@@ -90,3 +90,9 @@ td {
    
    }
 
+    /* Indicadores de Páginas */
+   .at-nb-results {
+    padding: 4px 0;
+    display: none;
+}
+
