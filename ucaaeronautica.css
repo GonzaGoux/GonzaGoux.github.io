@@ -68,4 +68,9 @@ td {
     border-collapse: separate;
 }
 
+.google-visualization-table-table tbody>tr>:nth-child(3) {
+    display: none;
+}
+
+
 
