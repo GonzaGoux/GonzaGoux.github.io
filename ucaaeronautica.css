@@ -98,8 +98,7 @@ td {
 
 /* Horizontal Border */
 .google-visualization-table-table th, .google-visualization-table-table td {
-    border: solid #eee;
-    border-width: 6px 0px 0px 0px!important;
+    border: solid #4b4a4d;
+    border-width: 6px px 0px 0px!important;
     padding: 2px .35em;
-    border-color: #4b4a4d!important;
 }
