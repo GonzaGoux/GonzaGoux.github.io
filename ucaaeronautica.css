@@ -109,6 +109,6 @@ td {
 @media (max-width: 600px) {
 
   .google-visualization-table-table.{
-    display: none;  }
+    display: none!important;  }
 
 }
