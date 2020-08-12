@@ -97,16 +97,9 @@ td {
 }
 
 /* SMALLER THAN IPAD*/
-@media only screen and (max-width : 1023px) { 
-    .show-mobile {
-        display: block !important;
-    }
-    .show-desktop {
-        display: none !important;
-    }
-}
 
-@media (max-width: 600px) {
+
+@media only screen and (min-width: 600px) {
 
   .google-visualization-table-table.{
     display: none!important;  }
